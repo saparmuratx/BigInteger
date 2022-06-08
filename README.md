@@ -2,6 +2,12 @@
 
 This is a C++ implementation of BigInteger
 
+Compiling and Running:
+---------------------
+    to compile:
+    $ make
+    to run:
+    $ ./main
 
 Constructors:
 -------------
